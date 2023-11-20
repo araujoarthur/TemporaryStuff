@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?><nfeProc
+xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00"><NFe
+xmlns="http://www.portalfiscal.inf.br/nfe"><infNFe versao="4.00"
+Id="NFe35231124502351000240550020001820861262883679"><ide><cUF>35</cUF><cNF>
+26288367</cNF><natOp>VENDA MERC ADQ/REC
+TERC.</natOp><mod>55</mod><serie>2</serie><nNF>182086</nNF><dhEmi>2023-11-16
+T14:06:08-03:00</dhEmi><tpNF>1</tpNF><idDest>2</idDest><cMunFG>3505708</cMun
+FG><tpImp>1</tpImp><tpEmis>1</tpEmis><cDV>9</cDV><tpAmb>1</tpAmb><finNFe>1</
+finNFe><indFinal>0</indFinal><indPres>9</indPres><indIntermed>0</indIntermed
+><procEmi>0</procEmi><verProc>SAP NFE
+4.0</verProc></ide><emit><CNPJ>42095669000154</CNPJ><xNome>FANTASIA 1</xNome><xFant>FANTASIA 2</xFant><enderEmit><xLgr>ENDERECO EMIT</xLgr><nro>11660</nro><xCpl>Arm.27</xCpl><xBairro>BAIRRO EMIT</xBairro><cMun>3503708</cMun><xMun>GUARULHOS</xMun><UF>SP</UF><CEP>06
+99999</CEP><xPais>Brasil</xPais><fone>1149000999</fone></enderEmit><IE>2064
+19529919</IE><CRT>3</CRT></emit><dest><CNPJ>37439756000141</CNPJ><xNome>FANTASIA DEST</xNome><enderDest><xLgr>ENDERECO DEST</xLgr><nro>1115</nro><xCpl>G32 CEN
+EM</xCpl><xBairro>CARVALHO</xBairro><cMun>4208503</cMun><xMun>GRAVATAI</xMun><
+UF>SC</UF><CEP>88399999</CEP><cPais>1058</cPais><xPais>Brasil</xPais><fone>5439992000</fone></enderDest><indIEDest>1</indIEDest><IE>26019999</IE></dest
+><det nItem="1"><prod><cProd>3142500</cProd><cEAN>SEM
+GTIN</cEAN><xProd>110/80R19M/CTL 59VMS
+KaroSF</xProd><NCM>40114000</NCM><CEST>1600300</CEST><CFOP>6102</CFOP><uCom>
+PC</uCom><qCom>10.0000</qCom><vUnCom>627.5700000000</vUnCom><vProd>6275.70</
+vProd><cEANTrib>SEM
+GTIN</cEANTrib><uTrib>PC</uTrib><qTrib>10.0000</qTrib><vUnTrib>627.570000000
+0</vUnTrib><indTot>1</indTot><xPed>PedidoJul</xPed><nItemPed>000001</nItemPe
+d></prod><imposto><ICMS><ICMS00><orig>2</orig><CST>00</CST><modBC>3</modBC><
+vBC>6275.70</vBC><pICMS>4.0000</pICMS><vICMS>251.03</vICMS></ICMS00></ICMS><
+IPI><cEnq>999</cEnq><IPINT><CST>53</CST></IPINT></IPI><PIS><PISNT><CST>04</C
+ST></PISNT></PIS><COFINS><COFINSNT><CST>04</CST></COFINSNT></COFINS></impost
+o><infAdProd>Lote: DE / Ped PedidoJul / Pneumatico novo de borracha para
+motocicletas, Marca METZELER, Medida 11080R19 / Base de calculo do ICMS ST
+retido anterior: 0,00  e ICMS ST retido anterior:
+0,00</infAdProd></det><total><ICMSTot><vBC>6275.70</vBC><vICMS>251.03</vICMS
+><vICMSDeson>0.00</vICMSDeson><vFCP>0.00</vFCP><vBCST>0.00</vBCST><vST>0.00<
+/vST><vFCPST>0.00</vFCPST><vFCPSTRet>0.00</vFCPSTRet><vProd>6275.70</vProd><
+vFrete>0.00</vFrete><vSeg>0.00</vSeg><vDesc>0.00</vDesc><vII>0.00</vII><vIPI
+>0.00</vIPI><vIPIDevol>0.00</vIPIDevol><vPIS>0.00</vPIS><vCOFINS>0.00</vCOFI
+NS><vOutro>0.00</vOutro><vNF>6275.70</vNF></ICMSTot></total><transp><modFret
+e>0</modFrete><transporta><CNPJ>01610798000156</CNPJ><xNome>TECMAR
+TRANSPORTES LTDA.</xNome><IE>298073918112</IE><xEnder>RUA DA CONGREGACAO,
+206 206</xEnder><xMun>EMBU DAS
+ARTES</xMun><UF>SP</UF></transporta><vol><qVol>10</qVol><esp>PECA</esp><peso
+L>51.890</pesoL><pesoB>51.890</pesoB></vol></transp><cobr><fat><nFat>4551163
+636</nFat><vOrig>6275.70</vOrig><vDesc>0.00</vDesc><vLiq>6275.70</vLiq></fat
+><dup><nDup>001</nDup><dVenc>2023-12-27</dVenc><vDup>6275.70</vDup></dup></c
+obr><pag><detPag><indPag>1</indPag><tPag>15</tPag><vPag>6275.70</vPag></detP
+ag></pag><infAdic><infCpl>Remessa: 4481641741 / Rodoviario / No. Pedido:
+Pedido Julho / Transportador: 4251313969 / TECMAR TRANSPORTES LTDA. /
+1132381400 / RUA DA CONGREGACAO, 206 206, PARQUE INDUSTRIAL, EMBU DAS
+ARTES - SP, 06816-005 / ICMS ST. DESTINATARIO RESPONSAVEL PELO RECOLHIMENTO
+DO IMPOSTO RICMS/SC, ANEXO 3, ART. 16 A. TTD 195000002436851. PROCESSO No..
+SEF 014871/2019 . VIGENCIA: PRAZO INDETERMINADO. / Custo de Disponibilizacao
+de Produto: 103,26 / Custo de Distribuicao:
+163,17</infCpl></infAdic></infNFe><Signature
+xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMeth
+od
+Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><SignatureMetho
+d Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><Reference
+URI="#NFe35231124502351000240550020001820861262883679"><Transforms><Transfor
+m
+Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/><Transfor
+m
+Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/></Transforms><D
+igestMethod
+Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><DigestValue>MB9fojkY0Pu
+kDVD5HlSCHh8LCwg=</DigestValue></Reference></SignedInfo><SignatureValue>cqQd
+lp4H72lud12WH9uddEwEcrce+f7cUHgjvZ4bCEqy4i1D7mtiiYEWZkXL63QCMvA7Ps09MGq8
+VKdlb24sOsvnUxoxj2u5Lv7Ehx268EEAYs/MFjNuGCVAasKJemeuiRD8mK0qLIKlinvNdk/lQPSe
+clmro2azT72Rk4EDNxnySycG9RM8P3Mq3UwPwujNWZ3s/LA5fpvk14QbH+so5pPUF94j7PmN7WOO
+9mkwwEJfYXwmRWWz67hIstOpNuQmyf3PqsW7Yp3cpytLMTsg87d5mUEK/YuKTQjyWCQJ5aAEBbv9
+dHkFOGF6ebp1ERpLOsFcaeAueN2Aa0Xi3//BiA==</SignatureValue><KeyInfo><X509Data>
+<X509Certificate>MIIIFTCCBf2gAwIBAgIQSPZyjJ+gxqt99fT7mRKflTANBgkqhkiG9w0BAQs
+FADB4MQswCQYDVQQG
+EwJCUjETMBEGA1UEChMKSUNQLUJyYXNpbDE2MDQGA1UECxMtU2VjcmV0YXJpYSBkYSBSZWNlaXRh
+IEZlZGVyYWwgZG8gQnJhc2lsIC0gUkZCMRwwGgYDVQQDExNBQyBDZXJ0aXNpZ24gUkZCIEc1MB4X
+DTIzMDgxMDIxMjU1NloXDTI0MDgwOTIxMjU1NlowggEBMQswCQYDVQQGEwJCUjETMBEGA1UECgwK
+SUNQLUJyYXNpbDELMAkGA1UECAwCU1AxEjAQBgNVBAcMCVNhbyBQYXVsbzETMBEGA1UECwwKUHJl
+c2VuY2lhbDEXMBUGA1UECwwOMDE1NTQyODUwMDAxNzUxNjA0BgNVBAsMLVNlY3JldGFyaWEgZGEg
+UmVjZWl0YSBGZWRlcmFsIGRvIEJyYXNpbCAtIFJGQjEWMBQGA1UECwwNUkZCIGUtQ05QSiBBMTE+
+MDwGA1UEAww1UElSRUxMSSBDT01FUkNJQUwgREUgUE5FVVMgQlJBU0lMIExUREE6MjQ1MDIzNTEw
+MDAxNjkwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCUEDlkEs/rSzvdSXFbx3GIKqlk
+PRFH4z6ygbJa/Kh0DVOUGBSTFm3Fy0I2i95v6LIrEE25sPOe3PJl7EPe8iHzcEZP4JPlp5P9hOMN
+8eXHXug9YLSPVq84tUDWbSi2qHHqtUbbsUWuMz0pa9+J1z5QUflWxX6Wxg7XXfYVdYLoBdjr/RtL
+c0rjwoZXCtyz2N4c9hVQvAgksxQaZOWgeTyjFydhlDj38VkzOIU/i/NL8GDf/KPj5rDEhyPbsGE2
+BJ1sTrAdVB98PjFrgyG572VbI40cRnYSpG62SOmn1jrmikIa3zlWB+hS5C+4/Gv4OBDcUOoXV3jV
+J9r2mIMHR3EfAgMBAAGjggMOMIIDCjCBvQYDVR0RBIG1MIGyoD0GBWBMAQMEoDQEMjMxMTAxOTY5
+MTE2MTcxNTE4NTgwMDAwMDAwMDAwMDAwMDAwMDAxODM3MjUxM1NTUFNQoCEGBWBMAQMCoBgEFkxV
+Q0lBTk8gTUFSSU8gQ0xBVURJTk+gGQYFYEwBAwOgEAQOMjQ1MDIzNTEwMDAxNjmgFwYFYEwBAweg
+DgQMMDAwMDAwMDAwMDAwgRpmaXNjYWwucGlyZWxsaUBwaXJlbGxpLmNvbTAJBgNVHRMEAjAAMB8G
+A1UdIwQYMBaAFFN9f52+0WHQILran+OJpxNzWM1CMH8GA1UdIAR4MHYwdAYGYEwBAgEMMGowaAYI
+KwYBBQUHAgEWXGh0dHA6Ly9pY3AtYnJhc2lsLmNlcnRpc2lnbi5jb20uYnIvcmVwb3NpdG9yaW8v
+ZHBjL0FDX0NlcnRpc2lnbl9SRkIvRFBDX0FDX0NlcnRpc2lnbl9SRkIucGRmMIG8BgNVHR8EgbQw
+gbEwV6BVoFOGUWh0dHA6Ly9pY3AtYnJhc2lsLmNlcnRpc2lnbi5jb20uYnIvcmVwb3NpdG9yaW8v
+bGNyL0FDQ2VydGlzaWduUkZCRzUvTGF0ZXN0Q1JMLmNybDBWoFSgUoZQaHR0cDovL2ljcC1icmFz
+aWwub3V0cmFsY3IuY29tLmJyL3JlcG9zaXRvcmlvL2xjci9BQ0NlcnRpc2lnblJGQkc1L0xhdGVz
+dENSTC5jcmwwDgYDVR0PAQH/BAQDAgXgMB0GA1UdJQQWMBQGCCsGAQUFBwMCBggrBgEFBQcDBDCB
+rAYIKwYBBQUHAQEEgZ8wgZwwXwYIKwYBBQUHMAKGU2h0dHA6Ly9pY3AtYnJhc2lsLmNlcnRpc2ln
+bi5jb20uYnIvcmVwb3NpdG9yaW8vY2VydGlmaWNhZG9zL0FDX0NlcnRpc2lnbl9SRkJfRzUucDdj
+MDkGCCsGAQUFBzABhi1odHRwOi8vb2NzcC1hYy1jZXJ0aXNpZ24tcmZiLmNlcnRpc2lnbi5jb20u
+YnIwDQYJKoZIhvcNAQELBQADggIBALjsm/nDjvsjbLhH1lKGUhChqYd8wo2WeLy8gX68SykFW2IN
+VJQNJnrQQLUoDIAd042A+ofUSy7HMSks+rToI6/LYFx23cEPDjjrg7DQ72ZSWrG2PqHkELxKUf8H
+PUCg+aiqFkPZsLWpHVcL1dR/LSOgCdFmpUMnEweOeuLr+QrQRl3sAtd6CQhpqZV7pyLg2ifX7yph
+xItyqCWudqJgBOfSVXLoRoawjeVbUTVoC3b+CisWEscN3FKb0/plT/e2vTP60G292qtG8b8wk4bQ
+NgUuSP2orPfEN+y6RrBsleYx1opZCtpLutLoB2gjA5w9OZqaWv4+Qla1BWRN0UZmteG4NcsGNRsg
+3L4mlCVcAmFYlRtYOmUMf9wAoL+1X/E8HiAWDeRogdjGL67idqBO183At7SqxaRliW7dlZ1uRBQm
+WTENM7DJ8ZKElscCfcibyUMA7FfI8+tCVR3TR8pqCruwTDeYcGTvhyp4gTon1mOT17nTCUO3Tawd
+fkIsj4TsKRubWPnXZJYNuwS7PFZFcuXn+njQ5BV5jcm1DCryQJ/QTlLyBjY/5iw8eLXNPbBoThz+
+jjMJN+CAfYskLeQXsWcEhF+oFNW3m6wYT/5XDVKVZ6e31A0L6QUCHrPiKPiz+MZwA8gDNOb4qEZf
+eKsHDSeXT6tE5NZcguFUsRGJ6Ptl</X509Certificate></X509Data></KeyInfo></Signatu
+re></NFe><protNFe xmlns="http://www.portalfiscal.inf.br/nfe"
+versao="4.00"><infProt><tpAmb>1</tpAmb><verAplic>SP_NFE_PL009_V4</verAplic><
+chNFe>35231124502351000240550020001820861262883679</chNFe><dhRecbto>2023-11-
+16T14:06:27-03:00</dhRecbto><nProt>135231983987717</nProt><digVal>MB9fojkY0P
+ukDVD5HlSCHh8LCwg=</digVal><cStat>100</cStat><xMotivo>Autorizado o uso da
+NF-e</xMotivo></infProt></protNFe></nfeProc>

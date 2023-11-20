@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/02/23 09:22:26.000.963,=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/05/23 09:53:06.000.311,=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/05/23 09:57:55.000.748,=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/05/28 08:43:31.000.100,=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/05/28 08:45:54.000.377,=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/06/14 18:47:30.000.184,=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/07/08 18:25:29.000.710,=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/07/08 19:09:04.000.239,=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/09/19 14:40:29.000.475,=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/02/17 14:06:56.000.342,=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/03/16 15:50:55.000.980,=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/05/03 15:11:38.000.756,=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/07/19 14:12:18.000.974,=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/07/19 14:12:19.000.863,=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\ServerContainerUnit1.pas</Transaction>
+    <Transaction>2021/07/19 14:12:19.000.124,=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\ServerMethodsUnit1.pas</Transaction>
+    <Transaction>2021/08/21 08:42:40.000.217,=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/04/07 19:48:45.000.966,=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/11/07 17:35:11.000.037,=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/11/07 17:35:18.000.787,C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit2.dfm=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Package Test Application\PackageTesteApplication.dfm</Transaction>
+    <Transaction>2023/11/07 17:35:18.000.787,C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Package Test Application\PackageTesteApplication.pas</Transaction>
+    <Transaction>2023/11/07 17:35:58.000.039,C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Package Test Application\PackageTester.dproj</Transaction>
+    <Transaction>2023/11/16 15:28:18.000.452,=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Package Test Application\Unit1.pas</Transaction>
+    <Transaction>2023/11/16 15:28:23.000.760,C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Package Test Application\PreXML.pas=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Package Test Application\Unit1.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5" Android="AVD_for_Nexus_5_by_Google"/>
+		<PNew iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
